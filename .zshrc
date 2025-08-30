@@ -17,6 +17,7 @@ alias sva="source ./.venv/bin/activate"
 alias nrd="npm run dev"
 alias dev="cd ~/Developer"
 alias home="cd ~"
+alias c="clear"
 
 # Adding zsh-syntax-highlighting (NOTE: MUST BE AT THE END!)
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
